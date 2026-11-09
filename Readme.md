@@ -16,9 +16,6 @@ Domain Controller (DC): Runs Windows Server (e.g., Windows Server 2019 or 2022).
 <tr>
 <td>
 
-<h2>once successfull you should be able to install your operating system</h2>
-<img width="402" height="276" alt="image" src="https://github.com/user-attachments/assets/07322e7f-5839-4edd-86b6-17c8e65810e6" />
-
 <h4>1. Power Off the Virtual Machine</h4>
 
 <p>Close the setup window and completely power off the VM in VirtualBox.</p>
@@ -39,6 +36,8 @@ Domain Controller (DC): Runs Windows Server (e.g., Windows Server 2019 or 2022).
 </tr>
 </table>
 <img width="1146" height="312" alt="image" src="https://github.com/user-attachments/assets/60364c51-6b55-4195-874b-14b6c4f19454" />
+<h2>once successfull you should be able to install your operating system</h2>
+<img width="402" height="276" alt="image" src="https://github.com/user-attachments/assets/07322e7f-5839-4edd-86b6-17c8e65810e6" />
 
 
 # Active Directory Home Lab — Oracle VirtualBox
