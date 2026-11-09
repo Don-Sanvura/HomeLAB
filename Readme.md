@@ -6,6 +6,40 @@ Domain Controller (DC): Runs Windows Server (e.g., Windows Server 2019 or 2022).
 <h1>For our server we are going to be using  Windows Server 2022</h1>
 <img width="1240" height="603" alt="image" src="https://github.com/user-attachments/assets/f866681b-8341-447e-9b9f-018cb78bf728" />
 
+<h1>Running the the vitual machine </h1>
+<img width="1362" height="688" alt="image" src="https://github.com/user-attachments/assets/f93eef4d-8d94-44cc-969d-ea62855291cd" />
+
+<h1>Fixing error messsage</h1>
+<img width="536" height="234" alt="image" src="https://github.com/user-attachments/assets/a3477dd6-3e94-48b1-8c55-db70a11ab889" />
+
+<table>
+<tr>
+<td>
+
+<h2>once successfull you should be able to install your operating system</h2>
+<img width="402" height="276" alt="image" src="https://github.com/user-attachments/assets/07322e7f-5839-4edd-86b6-17c8e65810e6" />
+
+<h4>1. Power Off the Virtual Machine</h4>
+
+<p>Close the setup window and completely power off the VM in VirtualBox.</p>
+
+<p><strong>Verification:</strong> Status changes from <code>Running</code> to <code>Powered Off</code>.</p>
+
+</td>
+
+<td>
+
+<h4>2. Check Storage Controller Settings</h4>
+
+<p>Go to <strong>Settings → Storage</strong> and check the optical drive containing the ISO. Use <strong>SATA</strong> or <strong>NVMe</strong> if appropriate.</p>
+
+<p><strong>Verification:</strong> The Windows Server ISO is mounted correctly with no warning icons.</p>
+
+</td>
+</tr>
+</table>
+<img width="1146" height="312" alt="image" src="https://github.com/user-attachments/assets/60364c51-6b55-4195-874b-14b6c4f19454" />
+
 
 # Active Directory Home Lab — Oracle VirtualBox
 
